@@ -1,2 +1,3 @@
-# SWResume
-AI-Powered Resume Keyword Optimizer
+# SessionWise Summarizer
+AI-Powered Text Summarizer
+
